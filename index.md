@@ -2,6 +2,3 @@
 
 I'm glad you are here. I plan to talk about Physics.
 *Let's do it!*
----
-title: "Lagrangian"
----
